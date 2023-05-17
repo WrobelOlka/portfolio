@@ -13,10 +13,10 @@ My dream is to become the best QA and be able to use my passions, knowledge and 
 * Testing website
 
 # Courses and Certificates
-* **Tester Manualny** CodersLab
-* **Tester Automatyzujący** CodersLab
-* **ISTQB FL** SJSI
-* Praktyczny kurs testowania oprogramowania Udemy
+* [**Tester Manualny**](https://drive.google.com/file/d/1bANOfOhZOG8y9NP-ppXZlRoy_eYxI3Sm/view?usp=sharing) CodersLab
+* [**Tester Automatyzujący**](https://drive.google.com/file/d/1ylQzewkb57oOnMcuGEqRpqHSBHuzLAgu/view?usp=sharing) CodersLab
+* [**ISTQB FL**](https://drive.google.com/file/d/1rl7E9U6AURXuYivAmx5SECVGhlKSln8C/view?usp=sharing) SJSI
+* [Praktyczny kurs testowania oprogramowania](https://drive.google.com/file/d/1T_2ySyfNWIDOV8AMTH_wI1hfIXQlY4o1/view?usp=sharing) Udemy
 * Zostań Testerem Manualnym [Twoje Kursy](https://to.twoje-kursy.pl/)
 * Git od podstaw dla każdego Udemy
 
@@ -33,15 +33,20 @@ My dream is to become the best QA and be able to use my passions, knowledge and 
 * Creating test cases
 * Bug reporting
 * Theoretical knowledge from the ISTQB
-* Agile methodologies, Scram
-* SQL / MySQL database basics
-* API testing
+* Agile methodologies, SCRUM
 * Basics of automation tests
+* API testing
+
+# Tools
+* SQL / MySQL database basics
+* Postman
 * Java basics
 * Selenium + WebDriver 
 * Gherkin
 * Git
 * DevTools
 * HTML, CSS
+* BrowserStack
+* OWASP ZAP
 
 
