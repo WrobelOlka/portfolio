@@ -49,4 +49,16 @@ My dream is to become the best QA and be able to use my passions, knowledge and 
 * BrowserStack
 * OWASP ZAP
 
+# Books about testing
+* Certyfikowany tester ISTQB.Poziom podstawowy (Adam Roman,Lucjan Stapp)
+* Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)
+* Praktyka testowania. Zeszyt ćwiczeń ( Radosław Smilgin)
+* Selenium WebDriver w Javie.Praktyczne wprowadzenie do tworzenia testów systemowych (Boni Gracia)
+
+# Groups about testing on facebook
+* [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie)
+* [#Mamo pracuj w IT](https://www.facebook.com/groups/mamopracujwit)
+* [Zostań Testerem Oprogramowania](https://www.facebook.com/groups/zostan.testerem.manualnym)
+* [Dare IT Community](https://www.facebook.com/groups/dareit.io)
+
 
